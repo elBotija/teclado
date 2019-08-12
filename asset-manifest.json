@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teclado/static/css/main.39fec4a7.chunk.css",
+    "main.js": "/teclado/static/js/main.b8ea0ccd.chunk.js",
+    "main.js.map": "/teclado/static/js/main.b8ea0ccd.chunk.js.map",
+    "runtime~main.js": "/teclado/static/js/runtime~main.238d6a3c.js",
+    "runtime~main.js.map": "/teclado/static/js/runtime~main.238d6a3c.js.map",
+    "static/js/2.c97f6f05.chunk.js": "/teclado/static/js/2.c97f6f05.chunk.js",
+    "static/js/2.c97f6f05.chunk.js.map": "/teclado/static/js/2.c97f6f05.chunk.js.map",
+    "index.html": "/teclado/index.html",
+    "precache-manifest.e7b0d3a8b0c7d0bb6da06ff337c762cf.js": "/teclado/precache-manifest.e7b0d3a8b0c7d0bb6da06ff337c762cf.js",
+    "service-worker.js": "/teclado/service-worker.js",
+    "static/css/main.39fec4a7.chunk.css.map": "/teclado/static/css/main.39fec4a7.chunk.css.map"
+  }
+}
